@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CompleteCameraController.cs" />
     <Compile Include="Assets\Player.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/John/Documents/Unity/2D space game/2d-space-game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
